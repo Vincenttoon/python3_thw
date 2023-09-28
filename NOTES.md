@@ -4,6 +4,7 @@
 
 - [Operators](#operators) 
 - [Escape Sequences](#escape-sequences)
+- [Assign Args in VSCode](#assign-args-in-vscode)
 
 
 ## Operators:
@@ -40,3 +41,7 @@
 | \v | ASCII vertical tab (VT) |
 | \000 | Character with octal value 000 |
 | \xhh | Character with hex value hh |
+
+## Assign Args in VSCode
+
+- [Video Explanation of assigning args in vscode](https://www.youtube.com/watch?v=zSljcz54pYQ)
